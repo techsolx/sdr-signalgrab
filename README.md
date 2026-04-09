@@ -1,4 +1,4 @@
-# signalgrab
+# sdr-signalgrab
 
 Using python lib, jump rtlsdr to specific frequencies at specific times
 
