@@ -36,7 +36,7 @@ The more I look the more I am a fan of semver...
 [TechSolX](https://github.com/techsolx)
 
 See also the list of
-[contributors](<project>/<repo>/graphs/master)
+[contributors](https://github.com/techsolx/signalgrab/graphs/contributors)
 who participated in this project.
 
 ## License

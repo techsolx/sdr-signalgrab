@@ -1,0 +1,6 @@
+black
+matplotlib
+pre-commit
+pypdf
+pyrtlsdr
+pyrtlsdrlib
