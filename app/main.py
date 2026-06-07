@@ -6,7 +6,7 @@ sdr = rtlsdr.RtlSdr()
 
 # configure device
 sdr.sample_rate = 2.4e6
-sdr.center_freq = 99.5e6
+sdr.center_freq = 1.5e6
 sdr.gain = 4
 
 samples = sdr.read_samples(256*1024)
