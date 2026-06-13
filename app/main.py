@@ -7,8 +7,8 @@ sdr = rtlsdr.RtlSdr()
 # configure device
 sdr.sample_rate = 2.4e6
 sdr.gain = "auto"
-sdr.direct_sampling_mode = "0"
-sdr.center_freq = 127e6
+sdr.set_direct_sampling(0)
+sdr.center_freq = 10e6
 
 samples = sdr.read_samples(256 * 1024)
 sdr.close()
